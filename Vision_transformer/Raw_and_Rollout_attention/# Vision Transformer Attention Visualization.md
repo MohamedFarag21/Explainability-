@@ -16,3 +16,5 @@ The code includes visualization steps for displaying the attention overlay on th
 To use the code, follow the instructions provided in the code comments and run the code in a Python environment with the necessary dependencies installed.
 
 Feel free to explore and modify the code to suit your specific requirements for visualizing attention in Vision Transformer models.
+
+TBD. Attnetion rollout technique
