@@ -21,11 +21,11 @@ Feel free to explore and modify the code to suit your specific requirements for 
 
 We visualize the at the first image the attention map of the last layer, and the other image is showing the map we got after getting the mean over the attention heads in the last layer
 
-<div style="display: flex;">
-    <img src="Results/P-51_Mustang_edit1.jpg" alt="Image Description" style="width: 33%;"/>
-    <img src="Results/Attention_map_last_layer.png" alt="Attention of the last layer" style="width: 33%;"/>
-    <img src="Results/attention_map_mean_over_heads_last_layer.png" alt="Image Description" style="width: 33%;"/>
-</div>
+<img src="Results/P-51_Mustang_edit1.jpg" alt="Image Description" width="1000"/>
+
+<img src="Results/Attention_map_last_layer.png" alt="Attention of the last layer" width="1000"/>
+
+<img src="Results/attention_map_mean_over_heads_last_layer.png" alt="Image Description" width="1000"/>
 
 **We can see there is a variation in the visualzation based on the mathematical operation we would use over the attention maps. We will introduce attnention rollout next as a better technique to be able to explain the transfomer behaviour**
 
