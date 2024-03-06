@@ -21,6 +21,6 @@ Feel free to explore and modify the code to suit your specific requirements for 
 
 We visualize the at the first image the attention map of the last layer, and the other image is showing the map we got after getting the mean over the attention heads in the last layer
 
-![Image Description](Results/P-51_Mustang_edit1.jpg)
+<img src="Results/P-51_Mustang_edit1.jpg " alt="Image Description" width="300"/>
 
 **TBD**. Attnetion rollout technique
