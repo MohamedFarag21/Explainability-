@@ -17,4 +17,10 @@ To use the code, follow the instructions provided in the code comments and run t
 
 Feel free to explore and modify the code to suit your specific requirements for visualizing attention in Vision Transformer models.
 
-TBD. Attnetion rollout technique
+## Results
+
+We visualize the at the first image the attention map of the last layer, and the other image is showing the map we got after getting the mean over the attention heads in the last layer
+
+![Image Description]()
+
+**TBD**. Attnetion rollout technique
