@@ -21,6 +21,12 @@ Feel free to explore and modify the code to suit your specific requirements for 
 
 We visualize the at the first image the attention map of the last layer, and the other image is showing the map we got after getting the mean over the attention heads in the last layer
 
-<img src="Results/P-51_Mustang_edit1.jpg " alt="Image Description" width="300"/>
+<img src="Results/P-51_Mustang_edit1.jpg " alt="Image Descriptio" width="500"/>
+
+<img src="Results/Attention_map_last_layer.png" alt="Attention of the last layer" width="500"/>
+
+<img src="Results/attention_map_mean_over_heas_last_layer.png " alt="Mean of attention maps of the last layer over the input image" width="500"/>
+
+**We can see there is a variation in the visualzation based on the mathematical operation we would use over the attention maps. We will introduce attnention rollout next as a better technique to be able to explain the transfomer behaviour**
 
 **TBD**. Attnetion rollout technique
